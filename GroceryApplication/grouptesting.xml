@@ -1,0 +1,15 @@
+<suite name="grouping"> 
+
+	<test name="mytest">
+	<parameter name="browser" value = "Chrome"></parameter>
+	<groups>
+	<run>
+	<include name = "smoke"></include></run>
+	</groups>
+		<classes>
+			
+					<class name="testscripts.AdminUsersTest"></class>
+			
+		</classes>
+		</test>
+		</suite>

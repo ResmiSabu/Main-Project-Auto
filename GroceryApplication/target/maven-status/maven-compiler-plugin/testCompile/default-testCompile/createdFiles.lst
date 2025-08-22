@@ -1,0 +1,9 @@
+testscripts\AdminUsersTest.class
+testscripts\ManageNewsTest.class
+testscripts\LoginTest.class
+testscripts\HomeTest.class
+testscripts\CategoryTest.class
+listeners\Listeners.class
+automationcore\Base.class
+listeners\RetryListener.class
+retry\Retry.class
